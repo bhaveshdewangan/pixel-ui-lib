@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-pixel-blue: #0078e5;
+    --color-pixel-green: #00952a;
+    --color-pixel-orange: #f98600;
+    --color-pixel-brown: #1f0300;
+    --color-pixel-purple: #382576;
+    --color-pixel-red: #dc0606;
+  }
+}

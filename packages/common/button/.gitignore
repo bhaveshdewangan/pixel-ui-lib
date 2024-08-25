@@ -8,8 +8,9 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-*.local
 dist
+dist-ssr
+*.local
 
 # Editor directories and files
 .vscode/*
@@ -23,4 +24,3 @@ dist
 *.sw?
 
 *storybook.log
-storybook-static
